@@ -1,0 +1,4 @@
+0 masaustu
+1 laptop
+2 tablet
+3 telefon
